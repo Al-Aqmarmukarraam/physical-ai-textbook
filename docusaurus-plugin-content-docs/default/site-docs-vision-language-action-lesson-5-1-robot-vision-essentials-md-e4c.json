@@ -1,0 +1,54 @@
+{
+  "id": "vision-language-action/lesson-5.1-robot-vision-essentials",
+  "title": "Robot Vision Essentials",
+  "description": "Basics of how robots \"see\" using cameras and image processing.",
+  "source": "@site/docs/vision-language-action/lesson-5.1-robot-vision-essentials.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/lesson-5.1-robot-vision-essentials",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.1-robot-vision-essentials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/vision-language-action/lesson-5.1-robot-vision-essentials.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "robot-vision",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/robot-vision"
+    },
+    {
+      "inline": true,
+      "label": "cameras",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/cameras"
+    },
+    {
+      "inline": true,
+      "label": "image-processing",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/image-processing"
+    },
+    {
+      "inline": true,
+      "label": "perception",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/perception"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Robot Vision Essentials",
+    "description": "Basics of how robots \"see\" using cameras and image processing.",
+    "tags": [
+      "robot-vision",
+      "cameras",
+      "image-processing",
+      "perception"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Sim Overview",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/digital-twin-simulation/lesson-4.3-nvidia-isaac-sim"
+  },
+  "next": {
+    "title": "Natural Language Understanding for Robots",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.2-nlu-for-robots"
+  }
+}

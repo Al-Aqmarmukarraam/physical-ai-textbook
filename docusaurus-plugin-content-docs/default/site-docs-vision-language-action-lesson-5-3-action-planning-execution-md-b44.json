@@ -1,0 +1,54 @@
+{
+  "id": "vision-language-action/lesson-5.3-action-planning-execution",
+  "title": "Action Planning and Execution",
+  "description": "How robots plan and perform physical actions based on perception and language.",
+  "source": "@site/docs/vision-language-action/lesson-5.3-action-planning-execution.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/lesson-5.3-action-planning-execution",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.3-action-planning-execution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/vision-language-action/lesson-5.3-action-planning-execution.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "action-planning",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/action-planning"
+    },
+    {
+      "inline": true,
+      "label": "execution",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/execution"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "automation",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/automation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Action Planning and Execution",
+    "description": "How robots plan and perform physical actions based on perception and language.",
+    "tags": [
+      "action-planning",
+      "execution",
+      "robotics",
+      "automation"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Natural Language Understanding for Robots",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.2-nlu-for-robots"
+  },
+  "next": {
+    "title": "Integrating Perception, Language, and Action",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/capstone-pipeline/lesson-6.1-integrating-vla"
+  }
+}

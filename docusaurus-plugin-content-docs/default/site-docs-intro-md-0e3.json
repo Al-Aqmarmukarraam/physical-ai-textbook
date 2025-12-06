@@ -1,0 +1,24 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI & Humanoid Robotics",
+  "description": "Welcome to the comprehensive textbook on Physical AI and Humanoid Robotics. This AI-Native textbook covers the fundamental concepts, technologies, and applications in the rapidly evolving field of physical artificial intelligence and humanoid robotics.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "sidebar_position": 1
+  },
+  "sidebar": "textbookSidebar",
+  "next": {
+    "title": "What is Physical AI?",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/introduction/lesson-1.1-what-is-physical-ai"
+  }
+}

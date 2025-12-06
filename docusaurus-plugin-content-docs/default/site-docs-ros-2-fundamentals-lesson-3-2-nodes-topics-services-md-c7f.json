@@ -1,0 +1,54 @@
+{
+  "id": "ros2-fundamentals/lesson-3.2-nodes-topics-services",
+  "title": "ROS 2 Nodes, Topics, and Services",
+  "description": "Core communication concepts in ROS 2 with simple examples.",
+  "source": "@site/docs/ros2-fundamentals/lesson-3.2-nodes-topics-services.md",
+  "sourceDirName": "ros2-fundamentals",
+  "slug": "/ros2-fundamentals/lesson-3.2-nodes-topics-services",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.2-nodes-topics-services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/ros2-fundamentals/lesson-3.2-nodes-topics-services.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nodes",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/nodes"
+    },
+    {
+      "inline": true,
+      "label": "topics",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/topics"
+    },
+    {
+      "inline": true,
+      "label": "services",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/services"
+    },
+    {
+      "inline": true,
+      "label": "communication",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/communication"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ROS 2 Nodes, Topics, and Services",
+    "description": "Core communication concepts in ROS 2 with simple examples.",
+    "tags": [
+      "nodes",
+      "topics",
+      "services",
+      "communication"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Introduction to ROS 2",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.1-introduction-ros2"
+  },
+  "next": {
+    "title": "Building and Running Basic ROS 2 Packages",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.3-building-basic-packages"
+  }
+}

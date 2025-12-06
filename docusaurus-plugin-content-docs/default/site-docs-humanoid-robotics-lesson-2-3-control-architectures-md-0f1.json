@@ -1,0 +1,54 @@
+{
+  "id": "humanoid-robotics/lesson-2.3-control-architectures",
+  "title": "Control Architectures in Humanoids",
+  "description": "Introduction to different control strategies for humanoid robots.",
+  "source": "@site/docs/humanoid-robotics/lesson-2.3-control-architectures.md",
+  "sourceDirName": "humanoid-robotics",
+  "slug": "/humanoid-robotics/lesson-2.3-control-architectures",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/humanoid-robotics/lesson-2.3-control-architectures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/humanoid-robotics/lesson-2.3-control-architectures.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "control",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/control"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "strategies",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/strategies"
+    },
+    {
+      "inline": true,
+      "label": "humanoid",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/humanoid"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Control Architectures in Humanoids",
+    "description": "Introduction to different control strategies for humanoid robots.",
+    "tags": [
+      "control",
+      "architecture",
+      "strategies",
+      "humanoid"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Kinematics and Dynamics for Humanoids",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/humanoid-robotics/lesson-2.2-kinematics-dynamics"
+  },
+  "next": {
+    "title": "Introduction to ROS 2",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.1-introduction-ros2"
+  }
+}

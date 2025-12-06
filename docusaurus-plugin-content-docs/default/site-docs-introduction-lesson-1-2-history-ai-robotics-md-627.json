@@ -1,0 +1,54 @@
+{
+  "id": "introduction/lesson-1.2-history-ai-robotics",
+  "title": "A Brief History of AI in Robotics",
+  "description": "Key milestones and pioneers in the intersection of AI and robotics.",
+  "source": "@site/docs/introduction/lesson-1.2-history-ai-robotics.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/lesson-1.2-history-ai-robotics",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/introduction/lesson-1.2-history-ai-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/introduction/lesson-1.2-history-ai-robotics.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "history",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/history"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "milestones",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/milestones"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "A Brief History of AI in Robotics",
+    "description": "Key milestones and pioneers in the intersection of AI and robotics.",
+    "tags": [
+      "history",
+      "ai",
+      "robotics",
+      "milestones"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "What is Physical AI?",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/introduction/lesson-1.1-what-is-physical-ai"
+  },
+  "next": {
+    "title": "Core Components of a Physical AI System",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/introduction/lesson-1.3-components-physical-ai"
+  }
+}

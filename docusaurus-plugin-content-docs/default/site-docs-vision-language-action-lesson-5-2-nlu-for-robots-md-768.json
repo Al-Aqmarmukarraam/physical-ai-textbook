@@ -1,0 +1,54 @@
+{
+  "id": "vision-language-action/lesson-5.2-nlu-for-robots",
+  "title": "Natural Language Understanding for Robots",
+  "description": "Enabling robots to understand and respond to human language commands.",
+  "source": "@site/docs/vision-language-action/lesson-5.2-nlu-for-robots.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/lesson-5.2-nlu-for-robots",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.2-nlu-for-robots",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/vision-language-action/lesson-5.2-nlu-for-robots.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nlu",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/nlu"
+    },
+    {
+      "inline": true,
+      "label": "natural-language",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/natural-language"
+    },
+    {
+      "inline": true,
+      "label": "human-robot-interaction",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/human-robot-interaction"
+    },
+    {
+      "inline": true,
+      "label": "commands",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/commands"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Natural Language Understanding for Robots",
+    "description": "Enabling robots to understand and respond to human language commands.",
+    "tags": [
+      "nlu",
+      "natural-language",
+      "human-robot-interaction",
+      "commands"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Robot Vision Essentials",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.1-robot-vision-essentials"
+  },
+  "next": {
+    "title": "Action Planning and Execution",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/vision-language-action/lesson-5.3-action-planning-execution"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart Guide for Content Contributors",
+  "description": "This guide helps content contributors understand how to add and modify content in the Physical AI & Humanoid Robotics textbook.",
+  "source": "@site/docs/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

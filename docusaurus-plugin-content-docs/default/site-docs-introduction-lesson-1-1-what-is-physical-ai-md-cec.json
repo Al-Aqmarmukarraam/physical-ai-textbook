@@ -1,0 +1,48 @@
+{
+  "id": "introduction/lesson-1.1-what-is-physical-ai",
+  "title": "What is Physical AI?",
+  "description": "Definition and scope of physical AI, distinguishing it from purely software AI.",
+  "source": "@site/docs/introduction/lesson-1.1-what-is-physical-ai.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/lesson-1.1-what-is-physical-ai",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/introduction/lesson-1.1-what-is-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/introduction/lesson-1.1-what-is-physical-ai.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "physical-ai",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/physical-ai"
+    },
+    {
+      "inline": true,
+      "label": "definition",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/definition"
+    },
+    {
+      "inline": true,
+      "label": "scope",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/scope"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "What is Physical AI?",
+    "description": "Definition and scope of physical AI, distinguishing it from purely software AI.",
+    "tags": [
+      "physical-ai",
+      "definition",
+      "scope"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/intro"
+  },
+  "next": {
+    "title": "A Brief History of AI in Robotics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/introduction/lesson-1.2-history-ai-robotics"
+  }
+}

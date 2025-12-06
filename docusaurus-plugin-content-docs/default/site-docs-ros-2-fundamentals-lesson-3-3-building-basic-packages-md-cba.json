@@ -1,0 +1,54 @@
+{
+  "id": "ros2-fundamentals/lesson-3.3-building-basic-packages",
+  "title": "Building and Running Basic ROS 2 Packages",
+  "description": "A hands-on introduction to creating and executing ROS 2 programs.",
+  "source": "@site/docs/ros2-fundamentals/lesson-3.3-building-basic-packages.md",
+  "sourceDirName": "ros2-fundamentals",
+  "slug": "/ros2-fundamentals/lesson-3.3-building-basic-packages",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.3-building-basic-packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/ros2-fundamentals/lesson-3.3-building-basic-packages.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "packages",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/packages"
+    },
+    {
+      "inline": true,
+      "label": "building",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/building"
+    },
+    {
+      "inline": true,
+      "label": "running",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/running"
+    },
+    {
+      "inline": true,
+      "label": "development",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/development"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Building and Running Basic ROS 2 Packages",
+    "description": "A hands-on introduction to creating and executing ROS 2 programs.",
+    "tags": [
+      "packages",
+      "building",
+      "running",
+      "development"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "ROS 2 Nodes, Topics, and Services",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.2-nodes-topics-services"
+  },
+  "next": {
+    "title": "Introduction to Digital Twins in Robotics",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/digital-twin-simulation/lesson-4.1-intro-digital-twins"
+  }
+}

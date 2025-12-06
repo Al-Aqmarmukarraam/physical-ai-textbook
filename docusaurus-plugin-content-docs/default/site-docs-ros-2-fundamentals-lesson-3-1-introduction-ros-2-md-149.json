@@ -1,0 +1,54 @@
+{
+  "id": "ros2-fundamentals/lesson-3.1-introduction-ros2",
+  "title": "Introduction to ROS 2",
+  "description": "Overview of ROS 2 as a robotics operating system, its architecture and benefits.",
+  "source": "@site/docs/ros2-fundamentals/lesson-3.1-introduction-ros2.md",
+  "sourceDirName": "ros2-fundamentals",
+  "slug": "/ros2-fundamentals/lesson-3.1-introduction-ros2",
+  "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.1-introduction-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/Physical-AI-&-Humanoid-Robotics-book/edit/main/docs/docs/ros2-fundamentals/lesson-3.1-introduction-ros2.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "robotics-os",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/robotics-os"
+    },
+    {
+      "inline": true,
+      "label": "introduction",
+      "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/tags/introduction"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction to ROS 2",
+    "description": "Overview of ROS 2 as a robotics operating system, its architecture and benefits.",
+    "tags": [
+      "ros2",
+      "architecture",
+      "robotics-os",
+      "introduction"
+    ]
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Control Architectures in Humanoids",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/humanoid-robotics/lesson-2.3-control-architectures"
+  },
+  "next": {
+    "title": "ROS 2 Nodes, Topics, and Services",
+    "permalink": "/Physical-AI-&-Humanoid-Robotics-book/docs/ros2-fundamentals/lesson-3.2-nodes-topics-services"
+  }
+}
