@@ -1,1 +1,1 @@
-# physical-ai-textbook
+# physical-ai-and-robotics-textbook
